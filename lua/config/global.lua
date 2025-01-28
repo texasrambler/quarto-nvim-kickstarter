@@ -89,7 +89,7 @@ vim.opt.splitbelow = true
 vim.opt.showtabline = 1
 
 --windowline
-vim.opt.winbar = '%f'
+--vim.opt.winbar = '%f'
 
 -- don't continue comments automagically
 -- https://neovim.io/doc/user/options.html#'formatoptions'
